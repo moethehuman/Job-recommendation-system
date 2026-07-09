@@ -1,10 +1,8 @@
-# Job-recommendation-system
-This project explores how data science and NLP can connect people with opportunities by analyzing job descriptions, industries, and roles. It demonstrates content-based filtering, text similarity, and recommendation techniques, turning raw job listings into personalized career suggestions.
+Stress Detection
+This project develops an intelligent stress detection system using multimodal physiological signals collected from wearable sensors. Leveraging the WESAD dataset, the system processes ECG, respiration, EMG, electrodermal activity (EDA), body temperature, and motion signals to classify emotional states into baseline, stress, or amusement. The repository provides a complete deep learning pipeline, including data preprocessing, feature extraction, CNN model training, performance evaluation, and an application for emotion prediction. The goal is to enable accurate, subject-independent stress recognition that can support future health monitoring and well-being applications.
 
-# Features
-- *Data Cleaning & Preprocessing* 📊
-- *NLP powered matching*
-- *Recommendation Engine* 🧑‍🏫
-  
-The project is built by a passionate team of learners and devs ❤️
-
+Features:
+Data Preprocessing
+Feature Extraction
+Deep Learning Model
+Emotion Classification 
