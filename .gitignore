@@ -1,0 +1,14 @@
+# Raw WESAD dataset
+data/S*/
+data/*.npy
+data/*.pkl
+
+# Large models
+*.h5
+
+# Python files
+__pycache__/
+*.pyc
+
+# Visual Studio files
+.vs/
